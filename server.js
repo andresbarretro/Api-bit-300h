@@ -1,6 +1,6 @@
 //1. Importar la libreria de express
 // const express = require('express');
-import express from 'express';
+import express from "express";
 import userRoutes from './routes/userRoutes.js'
 import productRoutes from './routes/productRoutes.js';
 import mongoose from "mongoose";
